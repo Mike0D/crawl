@@ -128,7 +128,7 @@ Items
 * Evocable invisibilty and blink no longer have an MP cost.
 * Spells have been reshuffled between books, and a new Maxwell's Memoranda book
   has been added.
-* Condensation Vanes and Tremorstones can no longer both generate in one game.
+* Condensor Vanes and Tremorstones can no longer both generate in one game.
 * Longbows, arbalests and hand crossbows have had their stats slightly tweaked.
 * Removed the 'vorpal' brand and the unrand Morg.
 
